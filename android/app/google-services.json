@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795798415576",
+    "project_id": "astassign",
+    "storage_bucket": "astassign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795798415576:android:5190605aed3e2318848fad",
+        "android_client_info": {
+          "package_name": "com.ast_assign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795798415576-lj57lhl6avhbbos8fjn1veee9uc29ibt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ast_assign",
+            "certificate_hash": "80a444fadf01458730553c1f8c48f551ce41ec41"
+          }
+        },
+        {
+          "client_id": "795798415576-fi24hope1rqtonvep4q9sk194rdoqph0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGZnPONaiqbi6wJi4ezhNr9WmIQi5rvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795798415576-fi24hope1rqtonvep4q9sk194rdoqph0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
